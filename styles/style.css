@@ -21,6 +21,7 @@
   padding: 0px;
   flex-direction: column;
   justify-content: center;
+  overflow: hidden;
 }
 
 .logo {
@@ -78,7 +79,9 @@
   width: 568px;
   position: absolute;
   right: 0;
+  top: 64px;
   z-index: 1;
+
 }
 
 .descriprion {
