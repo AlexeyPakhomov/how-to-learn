@@ -19,7 +19,6 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
-@import url(../blocks/two-columns/__paragraph/_without-margin/);
 /* Cтили секции techniques */
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
@@ -33,8 +32,6 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 /* Cтили секции oakley */
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/two-columns/_background/two-columns_background_top.css);
-
 /* Стили секции feynman */
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
@@ -48,7 +45,6 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/__text/_second-row/table__text_second-row.css);
 /* Стили секции khan */
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
@@ -64,7 +60,6 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
-@import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);

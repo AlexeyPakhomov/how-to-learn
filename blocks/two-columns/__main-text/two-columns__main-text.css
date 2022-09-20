@@ -1,8 +1,4 @@
 .two-columns__main-text {
-	width: 80%;
-	min-width: 784px;
-}
-
-.two-columns__main-text .two-columns__paragraph_without-margin {
-	margin: 0;
+  width: 80%;
+  min-width: 784px;
 }
