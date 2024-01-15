@@ -12,4 +12,4 @@
 
 Файловая структура проекта реализована по правилам Nested БЭМ.
 
-https://alexeypakhomov.github.io/how-study/
+https://alexeypakhomov.github.io/how-to-learn/
